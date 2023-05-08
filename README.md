@@ -18,4 +18,4 @@ Provision an Azure Synapse Analytics workspace and an Azure Cosmos DB account. E
 * Azure Synapse Analytics provides Synapse SQL and Apache Spark runtimes in which you can run code to retrieve, process, and analyze data from the Cosmos DB analytical store without impacting the transactional data store in Azure Cosmos DB.
 
 ### Enable Azure Synapse Link:
-![ScreenShot]()
+![ScreenShot](https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/images/cosmos-enable-synapse-link.png)
