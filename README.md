@@ -19,3 +19,6 @@ Provision an Azure Synapse Analytics workspace and an Azure Cosmos DB account. E
 
 ### Enable Azure Synapse Link:
 ![ScreenShot](https://microsoftlearning.github.io/dp-203-azure-data-engineer/Instructions/Labs/images/cosmos-enable-synapse-link.png)
+
+### Create Analytic Store Container:
+![ScreenShot](https://raw.githubusercontent.com/NavarroAlexKU/Use-Azure-Synapse-Link-for-Azure-Cosmos-DB/28f51ca65dc5ba7c9987b428e49877695d564748/New%20Container.png)
